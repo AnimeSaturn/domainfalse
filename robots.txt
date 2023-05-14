@@ -1,3 +1,3 @@
-Sitemap: https://www.anime-saturn.ch/sitemap.xml
+Sitemap: https://www.anime-saturn.ac/sitemap.xml
 
 User-agent: Googlebot
